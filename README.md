@@ -40,9 +40,9 @@ We need to find out two kind of variables
 7. Customers living in rented or mortgaged are prone to loan default.
 8. As expected Verified customers are less likely to default. So bring in more robust verification process and maximum try to verify all customers
 9. Applicants receiving loan amounts of $15,000 or higher are more likely to default.
-11. High Debt-to-Income (DTI) ratios and interest rates in the 13%-17% range are associated with defaults.
-12.  Applicants with annual incomes less than $40,000 have a higher likelihood of defaulting. The company should consider offering financial education resources or setting maximum loan amounts based on income levels to ensure affordability for borrowers.
-13. The steady increase in the number of loan applicants from 2007 to 2011 indicates growth in the market. The company can capitalize on this trend by maintaining a competitive edge in the industry while keeping risk management practices robust.
+10. High Debt-to-Income (DTI) ratios and interest rates in the 13%-17% range are associated with defaults.
+11.  Applicants with annual incomes less than $40,000 have a higher likelihood of defaulting. The company should consider offering financial education resources or setting maximum loan amounts based on income levels to ensure affordability for borrowers.
+12. The steady increase in the number of loan applicants from 2007 to 2011 indicates growth in the market. The company can capitalize on this trend by maintaining a competitive edge in the industry while keeping risk management practices robust.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
